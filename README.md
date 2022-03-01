@@ -5,7 +5,15 @@ A couple of shell scripts are included that will add or remove all of these comm
 
 You can read more about how to add git aliases [here](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases).
 
-Table of Contents here
+# Table of Contents
+1. **History**
+    * [tree](#tree)
+2. **Committing**
+    * [uncommit](#uncommit)
+3. **Misc.**
+    * [leaderboard](#leaderboard)
+
+---
 
 ## History
 ### tree
